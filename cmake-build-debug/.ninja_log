@@ -1,0 +1,8 @@
+# ninja log v5
+796	859	1674561264958356071	BaseEqsCounter	df5cee2116410754
+0	86	1674562130545654935	build.ninja	aff80791267cb7c
+2	684	1674561264778618510	CMakeFiles/BaseEqsCounter.dir/BaseEqsCounter.cpp.o	535036f2d900c82d
+2	689	1672143427576987387	CMakeFiles/BaseEqsCounter.dir/src/BaseEquation_/Equation.cpp.o	47f5c07728dceb97
+1	796	1674561264891373788	CMakeFiles/BaseEqsCounter.dir/src/BaseEquation/Equation.cpp.o	62710ed66f3e6065
+3	102	1674563128805144790	CMakeFiles/BaseEqsCounter.dir/src/mainMenu/mainMenu.cpp.o	ddb89229dba1f458
+102	199	1674563128902252469	BaseEqsCounter	194cac4708120f37
